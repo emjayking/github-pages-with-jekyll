@@ -1,5 +1,5 @@
 ---
-title: boom
+title: 'boom'
 date: 2018-11-25
 ---
 # Look At This
